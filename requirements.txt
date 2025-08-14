@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+Scikit-learn
+kneed
+Scipy
+Plotly
+umap-learn
+mlxtend
+openpyxl
