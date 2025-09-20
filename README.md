@@ -22,6 +22,7 @@ Perfect for learning, experimentation, and reference.
 
 ### 4. Association Rule Mining
 - **Apriori Algorithm**
+- **Eclat**
 
 
 ## 🛠 Installation
