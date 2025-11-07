@@ -54,8 +54,6 @@ Navigate to the desired folder and open the notebook you want to run.
 
 Rahul Manchanda
 
-## 📬 Contact
-
 [![Email](https://img.shields.io/badge/Email-rahulmanchanda015%40gmail.com-red?logo=gmail&logoColor=white)](mailto:rahulmanchanda015@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahul%20Manchanda-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-manchanda-3959b120a/)
 [![GitHub](https://img.shields.io/badge/GitHub-rahul15--manch-black?logo=github&logoColor=white)](https://github.com/rahul15-manch)
