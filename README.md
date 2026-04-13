@@ -47,7 +47,12 @@ Navigate to the desired folder and open the notebook you want to run.
 ![matplotlib](https://img.shields.io/badge/matplotlib-visualization-green?logo=plotly&logoColor=white)
 ![seaborn](https://img.shields.io/badge/seaborn-stats--viz-lightblue)
 ![mlxtend](https://img.shields.io/badge/mlxtend-Association--Rules-yellow)
-
+## 🚀 Project Highlights
+- ✅ Hands-on implementation of 10+ unsupervised algorithms
+- 📊 Real-world datasets with visualization & insights
+- 🔍 Step-by-step explanations for better understanding
+- ⚡ Clean, modular, and reusable code structure
+- 📈 Focus on interpretability + intuition, not just code
 
 
 ## 👨‍💻 Author
